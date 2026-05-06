@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://letsgojogja.com/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Hero Images -->
+    <image:image>
+      <image:loc>https://letsgojogja.com/hero1.png</image:loc>
+      <image:title>Borobudur Sunrise Tour Yogyakarta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/hero2.png</image:loc>
+      <image:title>Prambanan Temple Tour Yogyakarta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/hero3.png</image:loc>
+      <image:title>Merapi Volcano Tour Yogyakarta</image:title>
+    </image:image>
+
+    <!-- Tour Package Images -->
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO1.png</image:loc>
+      <image:title>JogjaGo 1 — Borobudur Sunrise and Prambanan Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO2.png</image:loc>
+      <image:title>JogjaGo 2 — Borobudur Merapi Volcano Prambanan Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO3.png</image:loc>
+      <image:title>JogjaGo 3 — Yogyakarta City and Ijo Temple Sunset Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO4.png</image:loc>
+      <image:title>JogjaGo 4 — Prambanan and Yogyakarta City Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO5.png</image:loc>
+      <image:title>JogjaGo 5 — Jomblang Cave and Timang Beach Adventure Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO6.png</image:loc>
+      <image:title>JogjaGo 6 — Pindul Cave and Sri Getuk Waterfall Nature Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO7.png</image:loc>
+      <image:title>JogjaGo 7 — Cycling Tour de Temple Yogyakarta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO8.png</image:loc>
+      <image:title>JogjaGo 8 — Cycling Tour de Nature Yogyakarta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO9.png</image:loc>
+      <image:title>JogjaGo 9 — Yogyakarta City Tour and Batik Making Class</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://letsgojogja.com/JOGJAGO10.png</image:loc>
+      <image:title>JogjaGo 10 — Custom Tour Yogyakarta</image:title>
+    </image:image>
+
+  </url>
+
+</urlset>
